@@ -1,1 +1,2 @@
 2 ayrı sorguda araya giren Union birleşimi intersect ise de kesişimi ifade ediyor. 
+Except ise de intersectin tam tersi yani 1 sorguda olup da 2. sorguda olmayan değerleri getiriyoruz. 
