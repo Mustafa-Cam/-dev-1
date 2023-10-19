@@ -1,8 +1,8 @@
 2 ayrı sorguda araya giren Union birleşimi intersect ise de kesişimi ifade ediyor. 
+---
 Except ise de intersectin tam tersi yani 1 sorguda olup da 2. sorguda olmayan değerleri getiriyoruz. 
-```
+---
 group by mantığını daha iyi anlamamız gereklidir. ve group by count kombinasyonunu bir kategoriye ait değerlein sayısnı bulmada işe yarıyor. mesela çoçuk kategorisindeki kıyafet sayısı. group by aynı zamanda 
-mesela ülkelere ait kıtalar var diyelim biz bunları grupmaz isek bu kıtaların adları uzar da uzar her satırda olduğu için dersek ki eğer tüm veri setindeki kıta isimleri dersen group by yap direkt zaten kaç 
-tane kıta varsa onu sıralıyor bize
-```
+mesela ülkelere ait kıtalar var diyelim biz bunları grupmaz isek bu kıtaların adları uzar da uzar her satırda olduğu için dersek ki eğer tüm veri setindeki tüm kıta isimleri dersen group by yap direkt zaten kaç 
+tane kıta varsa onu sıralıyor bize tekrarını vermeden.
 
